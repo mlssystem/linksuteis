@@ -1,0 +1,146 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'FonteLogo';
+    src: url("../fonts/bubblegum-sans-regular.otf");
+}
+hr.separador-links-uteis {
+  border-bottom: 1p solid black;
+}
+footer {
+  /*background-color: #000 !important;*/
+  background-image: url("../img/bg.jpg");  
+  color: #fff;
+  width: 100%;
+  padding: 3%;
+}
+#coin {
+  margin-left: 5px;
+  margin-bottom: 30px;
+  text-align: center;
+  padding: 30px;
+}
+
+#coin a:hover {
+  text-decoration: none;
+}
+
+.links-uteis a {
+  font-size: 20px;
+}
+#mls {
+  font-family: 'FonteLogo';
+}
+
+.mls {
+  font-family: 'FonteLogo';
+  text-align: center;
+  padding: 10px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px red;
+}
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+#iniciando {
+	margin-top: 80px;
+}
+
+/*.blog-footer {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: .05rem solid #e5e5e5;
+}
+
+.blog-footer a {
+  color: #112;
+  font-family: FonteLogo;
+}
+
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}*/
+
+code {
+  font-size: 80%;
+}
+
+#marquee-title p {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 2px 3px black;
+}
+
+#marquee-title-h2 {
+  text-align: center;
+  /*text-transform: uppercase;*/
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 2px 3px black;
+}
+
+#marquee-contra-mao {
+  text-indent: 5%;
+}
+
+#marquee-subindo {
+  text-indent: 10%;
+}
+
+#marquee-subindo marquee{
+  padding: 20px;
+}
+
+#marquee-descendo {
+  text-indent: 15%;
+}
+
+#marquee-descendo marquee{
+  padding: 20px;
+}
+
+#marquee-esquerda {
+  text-indent: 20%;
+}
+
+#marquee-1 {
+    margin: 1px 100px 1px; 
+    line-height: 3em;
+}
+
+#marquee-2 a {
+    color: orange;
+}
+
+#marquee-3 a {
+    color: red;
+}
+
+#marquee-4 {
+    font-weight: bold
+}
+
+#marquee-5 {
+    color: green;
+}
+
+#marquee-7 {
+    color: blue; 
+    float: right;
+    padding: 10px;
+}
+
+#marquee-8 {
+    color: yellow;
+}
+
+#marquee-10 {
+    color: purple; 
+    margin: 1px 0px 0px 150px; 
+    padding: 10px;
+}
+
